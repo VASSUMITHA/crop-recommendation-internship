@@ -16,7 +16,7 @@ https://crop-recommendation-vassumitha.streamlit.app/
 - requirements.txt: dependencies
 
 ## Tech Stack
-Python, Streamlit, NumPy, scikit-learn
+Python, Streamlit, Pandas, NumPy, scikit-learn
 
 ## Run Locally
 ```
