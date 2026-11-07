@@ -19,8 +19,10 @@ https://crop-recommendation-vassumitha.streamlit.app/
 Python, Streamlit, NumPy, scikit-learn
 
 ## Run Locally
+```
 pip install -r requirements.txt
 streamlit run app_internship_version.py
+```
 
 ## Future Scope
 - Add crop images and growing tips
